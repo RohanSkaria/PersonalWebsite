@@ -32,4 +32,6 @@ The WordPress website is hosted on EC2 instances within a highly available and s
 - Amazon Route 53 for domain name registration and DNS management.
   
 ## Architecture Layout
-![2 _Host_a_WordPress_Website_on_AWS](https://github.com/RohanSkaria/PersonalWebsite/assets/100239078/c345702c-da4c-4f31-9859-db8989d3c1b2)
+![ro-architecture-design](https://github.com/RohanSkaria/PersonalWebsite/assets/100239078/c5edd4af-f91f-4d74-99c3-bd53f39eee43)
+
+
